@@ -22,9 +22,12 @@ To keep **track** of my day-to-day life at the level of my job search, I have cr
 ## :white_check_mark: Tests
 
 ## Authors
-
+Developed by: 
+- Valeria Dobado Gonzalez: https://github.com/ugotchriscoded/ugotchriscoded
+  
 ## Languages and tools we used in this project
 
 ## Thanks for reading!
 
+Thanks for your attention, have a nice day! <3
 
